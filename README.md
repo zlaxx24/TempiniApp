@@ -1,8 +1,11 @@
-# TEMPINI REACT APP
+# Tempini React App
 
 In this project, you can watch live weather from all around the world with a simple click.
 
 ## OpenWeatherMap
 
-OpenWeatherMap API integration;
+Full integration of OpenWeatherMap API using react view;
 
+## How to start?
+
+Just run npm start at the terminal;
