@@ -8,4 +8,4 @@ Full integration of OpenWeatherMap API using react view;
 
 ## How to start?
 
-Just run npm start at the terminal;
+Just run `npm start` at the terminal;
