@@ -1,6 +1,6 @@
-# Tempini React App
+# Tempini App
 
-In this project, you can watch live weather from all around the world with a simple click.
+In this JSX React project, you can watch live weather from all around the world with a simple click.
 
 ## OpenWeatherMap
 
